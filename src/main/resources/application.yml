@@ -1,0 +1,12 @@
+server:
+  port: 9802
+spring:
+  devtools:
+    restart:
+      enabled: false
+  application:
+    name: octetraze_bot_application
+  data:
+    redis:
+      port: 6379
+      database: 10

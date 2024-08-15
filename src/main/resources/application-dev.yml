@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    url: jdbc:mysql://hotfi-test.rwlb.singapore.rds.aliyuncs.com:3306/tonme_game_war
+    username: ops
+    password: asdFGHHS@344sdfg
+  data:
+    redis:
+      host: r-gs51i21z7shdre50wlpd.redis.singapore.rds.aliyuncs.com
+      password: lkj^&DGdj3ch2d*j
+bot:
+  botname: octetraze_bot
+  token: 7381071084:AAFQlzqqlwcbC9Mxs3dDta7qVnfVXNmGjrA
+  gameshortname: octetraze_application
+  gamename: Octocraze
+  autodel: 3000
+  launch-mode: miniapp
