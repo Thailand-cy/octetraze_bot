@@ -9,4 +9,4 @@ spring:
   data:
     redis:
       port: 6379
-      database: 10
+      database: 9
